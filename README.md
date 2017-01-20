@@ -1,5 +1,8 @@
 # webpack_sass_gulp
-boilerplate för gulp och sass och webpack 
+Kulturkatalogen Admin
+Dnn module för kulturkatalogen
+
+
 
 clona och använd.
 kör
